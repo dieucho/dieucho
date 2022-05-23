@@ -1,7 +1,7 @@
 - 👋 Hi, I’m dieucho
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Web projects and Java projects
+- 💞️ I’m looking to collaborate on Web development projects with Java Spring Boot and React
 
 
 <!---
